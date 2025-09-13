@@ -8,7 +8,7 @@ A comprehensive **AI-powered invoice processing and management system** built wi
 
 ### Structure
 - **apps/web** → Next.js 15 (App Router, TypeScript, Tailwind CSS, shadcn/ui, react-pdf)
-- **apps/api** → Node.js + Express + TypeScript + MongoDB (Atlas, GridFS)
+- **apps/api** → Node.js + Express.js+ TypeScript + MongoDB (Atlas, GridFS)
 - **packages/types** → Shared TypeScript interfaces
 
 ### Features
